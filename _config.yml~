@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://ans-chan.github.io
-title: Ans-Chan
-subtitle: ioser
-author: ans-chan
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: https://www.google.com/search
-description:it is my personal blog
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
