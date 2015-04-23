@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ans-Chan]]></title>
   <link href="http://ans-chan.github.io/atom.xml" rel="self"/>
   <link href="http://ans-chan.github.io/"/>
-  <updated>2015-04-14T23:03:31+08:00</updated>
+  <updated>2015-04-23T22:43:05+08:00</updated>
   <id>http://ans-chan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[ans-chan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,18 @@
     <link href="http://ans-chan.github.io/blog/2015/04/14/xin-de-bo-ke/"/>
     <updated>2015-04-14T23:03:18+08:00</updated>
     <id>http://ans-chan.github.io/blog/2015/04/14/xin-de-bo-ke</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<ul>
+<li>开篇-完善第一篇博客</li>
+<li>博客搭建完毕的时候一直在忙其他东西</li>
+<li>没时间来整理这个，</li>
+<li>模版也没有搞，</li>
+<li>看起来很差的样子</li>
+<li>后面陆续开始写博客</li>
+<li>估计一周一篇的样子吧，</li>
+<li>第一篇还是写关于c语言的吧，毕竟以前的时候吃了很多大亏</li>
+<li>c语言关于数组做函数参数与指针的关系。</li>
+</ul>
+
 ]]></content>
   </entry>
   
