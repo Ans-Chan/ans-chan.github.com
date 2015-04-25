@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://ans-chan.github.io
-title: Ans-Chan
-subtitle: ioser
-author: ans-chan
+title: an陌生_爱的技术博客
+subtitle: 每一个女孩都是一个无泪天使，当天使爱上男孩便有了眼泪，天使落泪坠落凡间，所以每个男孩都不应该辜负你的女孩，因为她曾经为了你放弃了整个天堂。
+author: an陌生_爱
 simple_search: https://www.google.com/search
-description:
+description: an ioser
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: 153650401@qq.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
